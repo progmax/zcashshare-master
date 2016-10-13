@@ -5,7 +5,7 @@ http://www.bitcoin.org
 
 Copyright (c) 2009-2015 Bitcoin Developers
 Copyright (c) 2013-2014 PTS Developers
-Copyright (c) 2015  zcashshare Developers
+Copyright (c) 2015-2016  zcashshare Developers
 
 What is zcashshare?
 ----------------
@@ -18,8 +18,8 @@ zcashshare is momentum as a proof-of-work algorithm.
  120 second block targets
  50 coins per block
  60 blocks to retarget difficulty
- subsidy halves in 21k blocks 
- 2.1 million total coins
+ subsidy halves in 210000 blocks 
+ 21 million total coins
 
 
  six of confirmation needed for transaction
